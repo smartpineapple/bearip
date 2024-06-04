@@ -182,7 +182,7 @@ CGTN纪录,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
 综合,#genre#
 动漫秀场-莉莉专属频道,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 游戏解说,http://121.24.99.156:8090/hls/74/index.m3u8
-游戏风云,http://116.162.6.191/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43041/index.m3u8
+游戏风云,https://stream.freetv.fun/e4e31be4d038d38571dfc0ec147803b7ca3534eec6d43f36425da997efe3aaee.m3u8
 黄河卫视,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 北京冬奥纪实,http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
 北京卡酷少儿,http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
